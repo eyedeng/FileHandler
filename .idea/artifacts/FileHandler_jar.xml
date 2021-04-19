@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FileHandler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileHandler_jar</output-path>
+    <root id="archive" name="FileHandler.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="FileHandler" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Maven/apache-maven-3.6.3/repository/com/drewnoakes/metadata-extractor/2.15.0/metadata-extractor-2.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files (x86)/Maven/apache-maven-3.6.3/repository/com/adobe/xmp/xmpcore/6.0.6/xmpcore-6.0.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
